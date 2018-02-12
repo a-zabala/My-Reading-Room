@@ -65,78 +65,142 @@ C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.AI.Web.xml
-C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csprojResolveAssemblyReference.cache
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csproj.CoreCompileInputs.cache
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.dll
 C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.pdb
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\ApplicationInsights.config
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\My Reading Room.dll.config
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\My Reading Room.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\My Reading Room.pdb
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Antlr3.Runtime.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\EntityFramework.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\EntityFramework.SqlServer.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.Web.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.ApplicationInsights.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Newtonsoft.Json.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Owin.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Helpers.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Mvc.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Optimization.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Razor.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.Deployment.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.Razor.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\WebGrease.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Helpers.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Mvc.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Optimization.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.Razor.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.Deployment.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\System.Web.WebPages.Razor.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Antlr3.Runtime.pdb
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Newtonsoft.Json.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\EntityFramework.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\EntityFramework.SqlServer.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.ApplicationInsights.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\bin\Microsoft.AI.Web.xml
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csprojResolveAssemblyReference.cache
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csproj.CoreCompileInputs.cache
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\obj\Debug\My Reading Room.dll
-C:\Users\angekr\Documents\My Reading Room\My Reading Room\obj\Debug\My Reading Room.pdb
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csprojResolveAssemblyReference.cache
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Win32.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\netstandard.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.AppContext.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.Concurrent.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.NonGeneric.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.Specialized.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ComponentModel.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ComponentModel.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Console.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Data.Common.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.Contracts.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.Debug.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.Process.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.StackTrace.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.Tools.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.TraceSource.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.Tracing.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Drawing.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Dynamic.Runtime.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Globalization.Calendars.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Globalization.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Globalization.Extensions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.Compression.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.Compression.ZipFile.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.FileSystem.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.IsolatedStorage.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.Pipes.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Linq.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Linq.Expressions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Linq.Parallel.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Linq.Queryable.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Http.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.NameResolution.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.NetworkInformation.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Ping.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Requests.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Security.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.Sockets.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.WebHeaderCollection.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.WebSockets.Client.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Net.WebSockets.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ObjectModel.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Reflection.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Reflection.Extensions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Reflection.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Resources.Reader.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Resources.ResourceManager.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Resources.Writer.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Extensions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Handles.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.InteropServices.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Numerics.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Serialization.Json.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Claims.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Cryptography.Csp.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.Principal.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Security.SecureString.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Text.Encoding.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Text.Encoding.Extensions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Text.RegularExpressions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.Overlapped.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.Tasks.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.Thread.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.ThreadPool.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Threading.Timer.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ValueTuple.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.ReaderWriter.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.XDocument.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.XmlDocument.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.XmlSerializer.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.XPath.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Xml.XPath.XDocument.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Logging.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Options.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Remotion.Linq.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.Immutable.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.ComponentModel.Annotations.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Interactive.Async.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Logging.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Options.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Remotion.Linq.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Collections.Immutable.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Interactive.Async.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My_Reading_Room.Migrations.Initial.resources
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My Reading Room.csproj.GenerateResource.Cache
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My_Reading_Room.Migrations.BookView.resources
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\obj\Debug\My_Reading_Room.Migrations.Bob2.resources
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\angekr\Documents\Visual Studio 2017\Projects\My Reading Room\My Reading Room\bin\Microsoft.Extensions.Configuration.Abstractions.xml

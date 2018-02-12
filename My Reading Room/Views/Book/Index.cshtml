@@ -1,0 +1,18 @@
+﻿@model IEnumerable<My_Reading_Room.Models.BookViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>First Page</h2>
+
+<ul>
+    @foreach (var book in Model)
+    {
+        <li>@book.Name</li>
+
+    }
+
+
+</ul>
+
