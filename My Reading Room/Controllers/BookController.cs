@@ -10,6 +10,7 @@ namespace My_Reading_Room.Controllers
     public class BookController : Controller
     {
         // GET: Book
+        // testing github commits
         public ActionResult Index()
         {
             var booklist = new List<BookViewModel>();
