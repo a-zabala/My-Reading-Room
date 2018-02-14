@@ -1,0 +1,25 @@
+﻿@model IEnumerable<My_Reading_Room.Models.StudentViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron">
+    
+
+    <h2 class ="red-font" >Students</h2>
+    <p class="lead">These are the students in Class A</p>
+<ul>
+    @foreach (var student in Model)
+    {
+        <li>@student.StudentName</li>
+
+    }
+
+
+</ul>
+
+</div>
+
+
+
