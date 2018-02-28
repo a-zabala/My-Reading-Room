@@ -12,6 +12,8 @@ namespace My_Reading_Room.Controllers
         // GET: Student
         public ActionResult Index()
         {
+            var context = new MyReadingRoomDbContext();
+            var students = context.Students.ToList();
             var studentlist = new List<StudentViewModel>();
             studentlist.Add(new StudentViewModel()
             {
@@ -79,7 +81,7 @@ namespace My_Reading_Room.Controllers
                 CurrentBook = "Mr. Lemoncello's Library",
                 TotalMinutes = 47
             });
-            return View(studentlist);
+            return View(students);
         }
     }
 }

@@ -1,18 +1,20 @@
 namespace My_Reading_Room.Migrations
 {
+    using My_Reading_Room.Migrations;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<My_Reading_Room.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<My_Reading_Room.Models.MyReadingRoomDbContext>
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(My_Reading_Room.Models.ApplicationDbContext context)
+        protected override void Seed(My_Reading_Room.Models.MyReadingRoomDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

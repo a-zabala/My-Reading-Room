@@ -13,6 +13,8 @@ namespace My_Reading_Room.Controllers
         // testing github commits
         public ActionResult Index()
         {
+            var context = new MyReadingRoomDbContext();
+            var books = context.Books.ToList();
             var booklist = new List<BookViewModel>();
             booklist.Add(new BookViewModel() { Name = "Holes", Genre = "Science Fiction", Rating = 4 });
             booklist.Add(new BookViewModel() { Name = "A Series of Unfortunate Events", Genre = "Fiction", Rating = 5 });
@@ -26,7 +28,7 @@ namespace My_Reading_Room.Controllers
             booklist.Add(new BookViewModel() { Name = "Bone", Genre = "Graphic Novel", Rating = 4 });
             booklist.Add(new BookViewModel() { Name = "The Lion, the Witch, and the Wardrobe", Genre = "Fiction", Rating = 4 });
             booklist.Add(new BookViewModel() { Name = "Land of Stories", Genre = "Science Fiction", Rating = 5 });
-            return View(booklist);
+            return View(books);
         }
         public string BobResult()
         {
